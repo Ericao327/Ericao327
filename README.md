@@ -1,9 +1,32 @@
-- 👋 Olá, meu nome é Eric Lopes de Medeiros
-- 👀 Um iniciante do mundo da programação 
-- 🌱 Estou aprendendo PHP e C#
-- 📫 Para entrar em contato comigo ericlopesdemedeiros@gmail.com
+<h1 align="left">Olá 👋 Seja bem vindo</h1>
 
-<!---
-Ericao327/Ericao327 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
+
+<p align="left">Meu nome é Eric Lopes de Medeiros, eu sou do Brasil</p>
+
+###
+
+<h2 align="left">Sobre a minha pessoa</h2>
+
+###
+
+<p align="left">✨ Comecei a programar e estudar programação em 2023<br>📚 Estou aprendendo PHP e C#<br><br>🎲 Um fato sobre mim: Gosto de filmes e esportes</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/C#/C#-original.svg" height="40" alt="C# logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/PHP/PHP-original.svg" height="40" alt="PHP logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/C++/C++-original.svg" height="40" alt="C++ logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/C/C-original.svg" height="40" alt="C logo"  />
+  <img width="12" />
+</div>
+
+###
