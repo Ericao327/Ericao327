@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Eric Lopes de Medeiros, eu sou do Brasil e sou um iniciante do mundo da rpogramação</p>
+<p align="left">Meu nome é Eric Lopes de Medeiros, eu sou do Brasil e sou um iniciante do mundo da programação</p>
 
 ###
 
