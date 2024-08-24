@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Comecei a programar e estudar programação em 2023.<br>💻 Estudei programação no Senai-PR.<br>📚 Estou tentando aprofundar meus conhecimentos sobre programação.<br>🎲 Um fato sobre mim: Gosto de filmes e esportes.<br>⌨️ Para entrar em contato comigo ericlopesdemedeiros@gmail.com.</p>
+<p align="left">🎬 Comecei a programar e estudar programação em 2023.<br>💻 Estudei programação no Senai-PR.<br>📚 Estou tentando aprofundar meus conhecimentos sobre programação.<br>🎲 Fatos sobre mim: Gosto de filmes, esportes e música.<br>⌨️ Para entrar em contato comigo ericlopesdemedeiros@gmail.com.</p>
 
 ###
 
