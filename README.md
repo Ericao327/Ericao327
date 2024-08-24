@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">Eu programo com</h3>
+<h3 align="left">Eu programo com:</h3>
 
 ###
 
