@@ -6,34 +6,34 @@
 
 ###
 
-<h3 align="left">Sobre mim:</h3>
+<h3 align="left">Sobre mim</h3>
 
 ###
 
-<p align="left">🎬 Comecei a programar e estudar programação em 2023.<br>💻 Estudei programação no Senai-PR.<br>📚 Estou tentando aprofundar meus conhecimentos sobre programação.<br>🎲 Fatos sobre mim: Gosto de filmes, esportes e música.<br>⌨️ Para entrar em contato comigo ericlopesdemedeiros@gmail.com.</p>
+<p align="left">✨ Comecei a programar e estudar programação em 2023.<br>💻 Estudei programação no Senai-PR.<br>📚 Estou tentando aprofundar meus conhecimentos sobre programação.<br>🎲 Um fato sobre mim: Gosto de filmes e esportes.</p>
 
 ###
 
-<h3 align="left">Eu programo com:</h3>
+<h3 align="left">Eu programo com</h3>
 
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
 ###
