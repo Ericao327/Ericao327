@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Eric, atualmente trabalho como técnico de informática e sou um estudante de programação do Paraná, Brazil.</p>
+<p align="left">Meu nome é Eric, sou um estudante de programação do Paraná, Brasil.</p>
 
 ###
 
@@ -14,9 +14,12 @@
 
 ###
 
+<h3 align="left"></h3>
 
 ###
 
+<div align="left">
+</div>
 
 ###
 
