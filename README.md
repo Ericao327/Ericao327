@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Comecei a estudar programação em 2023.<br>💻 Estudei programação no Senai-PR.<br>📚 Estou tentando aprofundar meus conhecimentos sobre programação.<br>🎲 Um fato sobre mim: Gosto de filmes e esportes.</p>
+<p align="left">✨ Comecei a estudar programação em 2023.<br>💻 Estudei programação no Senai-PR atualmente estou cursando Engenharia de Software na UNICV.<br>📚 Estou tentando aprofundar meus conhecimentos sobre programação.<br>🎲 Um fato sobre mim: Gosto de filmes e esportes.</p>
 
 ###
 
