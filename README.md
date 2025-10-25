@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Eric, sou um estudante de programação do Paraná, Brasil.</p>
+<p align="left">Meu nome é Eric, tenho 21 anos e sou morador de Maringá, Paraná, Brasil.</p>
 
 ###
 
