@@ -23,18 +23,20 @@
 
 ###
 
-<p align="center">
+<div align="center">
+  
   <img 
-       src="https://github-readme-stats.vercel.app/api?username=Ericao327&show_icons=true&include_all_commits=true&count_private=true" 
+       src="https://github-readme-stats.vercel.app/api?username=Ericao327&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" 
        alt="GitHub Stats" 
+       height="170"
   />
-</p>
 
-<p align="center">
   <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ericao327&layout=compact" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ericao327&layout=compact&theme=tokyonight" 
        alt="Top Linguagens" 
+       height="170"
   />
-</p>
+
+</div>
 
 ###
